@@ -1,0 +1,6 @@
+numpy
+qiskit
+qiskit.quantum_info
+matplotlib.pyplot
+scipy
+math
